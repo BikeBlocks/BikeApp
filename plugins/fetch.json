@@ -1,0 +1,14 @@
+{
+    "org.apache.cordova.network-information": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.network-information"
+        }
+    },
+    "com.megster.cordova.bluetoothserial": {
+        "source": {
+            "type": "registry",
+            "id": "com.megster.cordova.bluetoothserial"
+        }
+    }
+}
